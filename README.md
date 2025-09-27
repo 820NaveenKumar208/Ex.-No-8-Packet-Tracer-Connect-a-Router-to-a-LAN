@@ -112,6 +112,23 @@ ________________________________________<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on R1 and R2 (after configuration)<br>
+<img width="1907" height="1079" alt="Screenshot 2025-09-27 093259" src="https://github.com/user-attachments/assets/0e832ce5-8cdf-43e8-a2bc-31ab964ada98" />
+
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/16fa10af-f5ef-4187-860f-278809295f56" />
+
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/99bfbb86-f8bc-45fd-b338-26115a3e66fa" />
+
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/86dd3c2e-85a0-4ebf-ac50-915dc24e1a2c" />
+
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/acae82d8-1665-4a5b-bd68-ef3f40339aaf" />
+
+<img width="3199" height="1799" alt="494212890-523cb0ac-e8ec-4a84-bcfd-5f560aae1dfd" src="https://github.com/user-attachments/assets/495f8279-3832-4944-8758-315884b5ef6e" />
+
+<img width="3199" height="1799" alt="494212932-1fb08618-489f-4fa8-aecb-d7bfcb1dd018" src="https://github.com/user-attachments/assets/092f5d6f-cce1-4511-b2f4-76954aaf678e" />
+
+
+
+
 •	show ip route on R1 and R2<br>
 •	Successful ping PC1 → PC4; R2 → PC2<br>
 •	Interface up messages after no shutdown on each link <br>
